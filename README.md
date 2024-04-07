@@ -9,7 +9,7 @@ Untuk demo anda bisa melihatnya demo [disini](https://idulfitri-2024.vercel.app/
 ## Usage
 
 - Kamu bisa melakukan custom nama yang ditampilkan dengan mengubah parameter nama pada URL.<br>
-  Example: `https://idulfitri-2024.vercel.app/?name=%22Nanangriyadi%20dan%20Keluarga%22`
+  Example: `https://idulfitri-2024.vercel.app/?name="Nanangriyadi dan Keluarga"`
 
 ## Contribution
 
