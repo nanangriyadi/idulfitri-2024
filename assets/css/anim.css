@@ -1,0 +1,29 @@
+
+.move-to-top {
+    animation: envelopeMoveToTop 600ms ease forwards;
+}
+
+@keyframes envelopeMoveToTop {
+    0% {
+        top: 0;
+    }
+
+    100% {
+        top: -100vh;
+    }
+}
+
+
+.show-ketupat {
+    animation: showKetupat 400ms ease forwards;
+}
+
+@keyframes showKetupat {
+    0% {
+
+    }
+
+    100% {
+        top: 0px;
+    }
+}
