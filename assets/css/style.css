@@ -97,7 +97,7 @@ body {
   font-weight: 500;
   font-size: 2.5rem;
   color: #fff;
-  text-shadow: 0px 0px 7.5px #ffffff;
+  text-shadow: 1px 1px 0 rgba(161, 159, 159, 0.6), 2px 2px 0 rgba(125, 124, 124, 0.6), 3px 3px 0 rgba(152, 149, 149, 0.6), 4px 4px 0 #e0dada;
   text-align: center;
   line-height: 4rem;
 }
